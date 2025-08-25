@@ -13,7 +13,7 @@ Elle permet de :
 
 ## 📸 Aperçu de l’application
 
-![Aperçu de l'application](img.gif)
+![Aperçu de l'application](img1.gif)
 
 ---
 
